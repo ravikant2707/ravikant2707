@@ -1,16 +1,14 @@
-### Hi, here is Ravikant 
+### Hi there 👋, Here is Ravikant 
+#### I am Currently working on Vue.js
+![I am Currently working on Vue.js]( )
 
-<!--
-**ravikant2707/ravikant2707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-🔭 I’m currently working on Vue.js.
 🌱 I’m currently learning Nuxt.
-👯 I’m looking to collaborate on any project(React,Vue,Nuxt)
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
